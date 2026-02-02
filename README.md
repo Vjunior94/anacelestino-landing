@@ -147,4 +147,4 @@ Todas as plataformas mencionadas (GitHub Pages, Vercel, Netlify) fornecem **HTTP
 
 ## 🆘 Precisa de Ajuda?
 
-Se tiver dificuldades em qualquer etapa, me avise que posso te guiar passo a passo!
+Se tiver dificuldades em qualquer etapa, me avise que posso te guiar passo a passo! 
